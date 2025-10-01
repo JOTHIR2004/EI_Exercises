@@ -7,37 +7,35 @@ A **C# Console Application** simulating a Smart Home System where users can cont
 ## Project Structure 
 
 SmartHomeSystem/
-│_ Program.cs                   → Main entry point
+│_ Program.cs → Main entry point
 │
 │_ Core/
-│   │_ ISmartDevice.cs          → Base interface for all devices
-│   │_ DeviceBase.cs            → Abstract base class with common properties
-│   │_ DeviceFactory.cs         → Factory Method to create devices
-│   │_ IDeviceProxy.cs          → Proxy interface
-│   │_ DoorLockProxy.cs         → Proxy implementation for DoorLock
+│ │_ ISmartDevice.cs → Base interface for all devices
+│ │_ DeviceBase.cs → Abstract base class with common properties
+│ │_ DeviceFactory.cs → Factory Method to create devices
+│ │_ IDeviceProxy.cs → Proxy interface
+│ │_ DoorLockProxy.cs → Proxy implementation for DoorLock
 │
 │_ Devices/
-│   │_ Light.cs                 → Smart Light implementation
-│   │_ Thermostat.cs            → Smart Thermostat implementation
-│   │_ DoorLock.cs              → Smart DoorLock implementation
-│   │_ AC.cs                    → Smart AC implementation
-│   │_ DoorSensorCamera.cs      → Camera attached to DoorLock
-│   │_ HomeCleaner.cs           → Smart HomeCleaner implementation
+│ │_ Light.cs → Smart Light implementation
+│ │_ Thermostat.cs → Smart Thermostat implementation
+│ │_ DoorLock.cs → Smart DoorLock implementation
+│ │_ AC.cs → Smart AC implementation
+│ │_ DoorSensorCamera.cs → Camera attached to DoorLock
+│ │_ HomeCleaner.cs → Smart HomeCleaner implementation
 │
 │_ Observer/
-│   │_ IObserver.cs             → Observer interface
-│   │_ ISubject.cs              → Subject interface
-│   │_ SmartHub.cs              → Central Hub (Singleton & Subject)
+│ │_ IObserver.cs → Observer interface
+│ │_ ISubject.cs → Subject interface
+│ │_ SmartHub.cs → Central Hub (Singleton & Subject)
 │
 │_ Scheduling/
-│   │_ Scheduler.cs             → Handles scheduled tasks
-│   │_ Trigger.cs               → Handles trigger-based automation
+│ │_ Scheduler.cs → Handles scheduled tasks
+│ │_ Trigger.cs → Handles trigger-based automation
 │
 │_ Utils/
-│   │_ Logger.cs                → Logging utility
-│   │_ Validator.cs             → Input validation helpers
-
-
+│ │_ Logger.cs → Logging utility
+│ │_ Validator.cs → Input validation helpers
 
 ---
 
