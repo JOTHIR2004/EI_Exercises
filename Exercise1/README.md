@@ -27,10 +27,6 @@ Each pattern is in a **separate folder** with its own `Program.cs` file.
 - Simplifies access to a complex subsystem.  
 - *Use Case*: Home Theater control.  
 
-**Flyweight Pattern**  
-- Shares similar objects to save memory.  
-- *Use Case*: Drawing multiple circles efficiently.  
-
 ---
 
 ## Behavioral Patterns
