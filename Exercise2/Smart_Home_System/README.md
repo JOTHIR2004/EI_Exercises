@@ -102,7 +102,6 @@ AC 4: ON
 DoorSensorCamera 5: ON
 ---
 HomeCleaner 6: ON
- 
 ---
 
 ## Logging & Validation
