@@ -16,7 +16,7 @@ A **C# Console Application** simulating a Smart Home System where users can cont
 
 3. **Automation & Triggers**
    - **Observer Pattern**: Devices react to other devices automatically  
-     Example: Thermostat > 80°C → AC turns ON  
+     Example: Thermostat > 70°F → AC turns ON  
               Door unlocked → DoorSensorCamera turns ON  
 
 4. **Status Reporting**
@@ -78,7 +78,7 @@ Users interact via **console menu**:
 
 ## Sample Simulation Flow
 
-Thermostat temperature set to 70°C
+Thermostat temperature set to 70°F
 SmartHub: Notifying observers...
 AC: Temperature is high → AC turned ON
 
@@ -89,9 +89,10 @@ DoorSensorCamera: Recording started
 Schedule HomeCleaner at 07:00
 HomeCleaner: Morning shift started
 
-Show status
+##Show status
+
 Light 1: OFF
-Thermostat 2: 82°C
+Thermostat 2: 75°F
 DoorLock 3: UNLOCKED
 AC 4: ON
 DoorSensorCamera 5: ON
@@ -112,13 +113,4 @@ HomeCleaner 6: ON
 2. Build the solution.
 3. Run `Program.cs` → interact with the menu for device control.
 4. Add custom devices, schedule tasks, and observe automation triggers.
-
----
-
-## Future Enhancements
-
-- Add support for **motion sensors** or **environment sensors**  
-- Integrate **voice commands** or **remote control simulation**  
-- Expand scheduling with **recurring tasks** or **multi-day automation**
-
 ---
