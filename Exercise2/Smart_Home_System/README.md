@@ -89,13 +89,18 @@ DoorSensorCamera: Recording started
 Schedule HomeCleaner at 07:00
 HomeCleaner: Morning shift started
 
-##Show status
+## Show status
 
 Light 1: OFF
+---
 Thermostat 2: 75°F
+---
 DoorLock 3: UNLOCKED
+---
 AC 4: ON
+---
 DoorSensorCamera 5: ON
+---
 HomeCleaner 6: ON
  
 ---
