@@ -16,7 +16,7 @@ namespace Exercise2.Devices
         {
             if (device is Thermostat thermo)
             {
-                if (thermo.Temperature > 80) TurnOn();
+                if (thermo.Temperature > 70) TurnOn();
                 else if (thermo.Temperature < 22) TurnOff();
             }
         }
