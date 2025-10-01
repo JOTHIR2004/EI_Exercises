@@ -78,38 +78,40 @@ Users interact via **console menu**:
 
 ## Sample Simulation Flow
 
-Thermostat temperature set to 70°F
-SmartHub: Notifying observers...
-AC: Temperature is high → AC turned ON
+**1. Thermostat Event**  
+- Thermostat temperature set to 70°F  
+- SmartHub: Notifying observers...  
+- AC: Temperature is high → AC turned ON  
 
-Door unlocked
-SmartHub: Notifying observers...
-DoorSensorCamera: Recording started
+**2. Door Unlock Event**  
+- Door unlocked  
+- SmartHub: Notifying observers...  
+- DoorSensorCamera: Recording started  
 
-Schedule HomeCleaner at 07:00
-HomeCleaner: Morning shift started
+**3. Scheduled Task**  
+- HomeCleaner scheduled at 07:00  
+- HomeCleaner: Morning shift started  
 
-## Show status
+---
 
-Light 1: OFF
----
-Thermostat 2: 75°F
----
-DoorLock 3: UNLOCKED
----
-AC 4: ON
----
-DoorSensorCamera 5: ON
----
-HomeCleaner 6: ON
+## Device Status
+
+| Device              | ID | Status      |  
+|--------------------|----|------------|  
+| Light               | 1  | OFF        |  
+| Thermostat          | 2  | 75°F       |  
+| DoorLock            | 3  | UNLOCKED   |  
+| AC                  | 4  | ON         |  
+| DoorSensorCamera    | 5  | ON         |  
+| HomeCleaner         | 6  | ON         |  
+
 ---
 
 ## Logging & Validation
 
-- All device actions, scheduling, and triggers are logged via `Logger.cs`  
-- User inputs are validated via `Validator.cs` to prevent invalid operations  
+- **Logging:** All device actions, scheduling, and triggers are logged via `Logger.cs`  
+- **Validation:** User inputs are checked via `Validator.cs` to prevent invalid operations  
 
----
 
 ## How to Run
 
