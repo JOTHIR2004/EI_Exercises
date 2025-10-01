@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\core\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\core\\devicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\core\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\core\\devicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\core\\deviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\core\\deviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\core\\ideviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\core\\ideviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\core\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\core\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\doorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\doorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\doorsensorcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\doorsensorcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\homecleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\homecleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\devices\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\observer\\smarthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\observer\\smarthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\scheduling\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\scheduling\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\scheduling\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\scheduling\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Exercise2.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\excercise2\\excercise2\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2829094-B1E2-4F2A-B638-F79D482F479E}|Excercise2\\Exercise2.csproj|solutionrelative:excercise2\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorSensorCamera.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\DoorSensorCamera.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\DoorSensorCamera.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\DoorSensorCamera.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\DoorSensorCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:35:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoorLock.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\DoorLock.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\DoorLock.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\DoorLock.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\DoorLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:34:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AC.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\AC.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\AC.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\AC.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\AC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:35:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\ISmartDevice.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Core\\ISmartDevice.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\ISmartDevice.cs",
+              "RelativeToolTip": "Excercise2\\Core\\ISmartDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:30:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDeviceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\IDeviceProxy.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Core\\IDeviceProxy.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\IDeviceProxy.cs",
+              "RelativeToolTip": "Excercise2\\Core\\IDeviceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:32:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceProxy.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Core\\DeviceProxy.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceProxy.cs",
+              "RelativeToolTip": "Excercise2\\Core\\DeviceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:32:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceFactory.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Core\\DeviceFactory.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceFactory.cs",
+              "RelativeToolTip": "Excercise2\\Core\\DeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:31:52.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceBase.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceBase.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Core\\DeviceBase.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Core\\DeviceBase.cs",
+              "RelativeToolTip": "Excercise2\\Core\\DeviceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:31:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Program.cs",
+              "RelativeToolTip": "Excercise2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:26:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeCleaner.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\HomeCleaner.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\HomeCleaner.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\HomeCleaner.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\HomeCleaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:35:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\Light.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\Light.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\Light.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:33:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Devices\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Devices\\Thermostat.cs",
+              "RelativeToolTip": "Excercise2\\Devices\\Thermostat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:34:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\IObserver.cs",
+              "RelativeToolTip": "Excercise2\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:36:31.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Observer\\ISubject.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\ISubject.cs",
+              "RelativeToolTip": "Excercise2\\Observer\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:36:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmartHub.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\SmartHub.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Observer\\SmartHub.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Observer\\SmartHub.cs",
+              "RelativeToolTip": "Excercise2\\Observer\\SmartHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:37:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scheduler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Scheduling\\Scheduler.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Scheduling\\Scheduler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Scheduling\\Scheduler.cs",
+              "RelativeToolTip": "Excercise2\\Scheduling\\Scheduler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:37:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Scheduling\\Trigger.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Scheduling\\Trigger.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Scheduling\\Trigger.cs",
+              "RelativeToolTip": "Excercise2\\Scheduling\\Trigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:37:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Utils\\Logger.cs",
+              "RelativeToolTip": "Excercise2\\Utils\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:38:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Utils\\Validator.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Utils\\Validator.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Utils\\Validator.cs",
+              "RelativeToolTip": "Excercise2\\Utils\\Validator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:38:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Excercise2.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Exercise2.csproj",
+              "RelativeDocumentMoniker": "Excercise2\\Exercise2.csproj",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Excercise2\\Excercise2\\Exercise2.csproj",
+              "RelativeToolTip": "Excercise2\\Exercise2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T05:28:37.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

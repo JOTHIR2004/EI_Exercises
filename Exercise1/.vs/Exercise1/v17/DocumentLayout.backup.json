@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510AC7F9-AA95-BE2E-E09F-B8C459604A41}|Behavioral\\Memento\\Memento.csproj|c:\\users\\user\\onedrive\\desktop\\jothir\u0027s\\exercise1\\behavioral\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510AC7F9-AA95-BE2E-E09F-B8C459604A41}|Behavioral\\Memento\\Memento.csproj|solutionrelative:behavioral\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Exercise1\\Behavioral\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Jothir\u0027s\\Exercise1\\Behavioral\\Memento\\Program.cs",
+              "RelativeToolTip": "Behavioral\\Memento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:31:48.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
