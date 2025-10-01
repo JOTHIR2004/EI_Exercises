@@ -13,5 +13,3 @@ The Memento Pattern is used to capture and restore an object's internal state wi
 **Usage:**  
 Run `Program.cs` to see a demo of saving text states, performing undo/redo operations, and restoring previous versions.  
 
-**Use Case 1:**  
-Text Editor: Users can undo or redo text changes by restoring previous states.
