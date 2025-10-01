@@ -7,35 +7,30 @@ A **C# Console Application** simulating a Smart Home System where users can cont
 ## Project Structure 
 
 SmartHomeSystem/
-│_ Program.cs → Main entry point
-│
-│_ Core/
-│ │_ ISmartDevice.cs → Base interface for all devices
-│ │_ DeviceBase.cs → Abstract base class with common properties
-│ │_ DeviceFactory.cs → Factory Method to create devices
-│ │_ IDeviceProxy.cs → Proxy interface
-│ │_ DoorLockProxy.cs → Proxy implementation for DoorLock
-│
-│_ Devices/
-│ │_ Light.cs → Smart Light implementation
-│ │_ Thermostat.cs → Smart Thermostat implementation
-│ │_ DoorLock.cs → Smart DoorLock implementation
-│ │_ AC.cs → Smart AC implementation
-│ │_ DoorSensorCamera.cs → Camera attached to DoorLock
-│ │_ HomeCleaner.cs → Smart HomeCleaner implementation
-│
-│_ Observer/
-│ │_ IObserver.cs → Observer interface
-│ │_ ISubject.cs → Subject interface
-│ │_ SmartHub.cs → Central Hub (Singleton & Subject)
-│
-│_ Scheduling/
-│ │_ Scheduler.cs → Handles scheduled tasks
-│ │_ Trigger.cs → Handles trigger-based automation
-│
-│_ Utils/
-│ │_ Logger.cs → Logging utility
-│ │_ Validator.cs → Input validation helpers
+├── Program.cs # Main entry point
+├── Core/
+│ ├── ISmartDevice.cs # Base interface for all devices
+│ ├── DeviceBase.cs # Abstract base class with common properties
+│ ├── DeviceFactory.cs # Factory Method to create devices
+│ ├── IDeviceProxy.cs # Proxy interface
+│ └── DoorLockProxy.cs # Proxy implementation for DoorLock
+├── Devices/
+│ ├── Light.cs # Smart Light implementation
+│ ├── Thermostat.cs # Smart Thermostat implementation
+│ ├── DoorLock.cs # Smart DoorLock implementation
+│ ├── AC.cs # Smart AC implementation
+│ ├── DoorSensorCamera.cs # Camera attached to DoorLock
+│ └── HomeCleaner.cs # Smart HomeCleaner implementation
+├── Observer/
+│ ├── IObserver.cs # Observer interface
+│ ├── ISubject.cs # Subject interface
+│ └── SmartHub.cs # Central Hub (Singleton & Subject)
+├── Scheduling/
+│ ├── Scheduler.cs # Handles scheduled tasks
+│ └── Trigger.cs # Handles trigger-based automation
+└── Utils/
+├── Logger.cs # Logging utility
+└── Validator.cs # Input validation helpers
 
 ---
 
