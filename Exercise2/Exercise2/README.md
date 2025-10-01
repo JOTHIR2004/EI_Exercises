@@ -4,36 +4,6 @@ A **C# Console Application** simulating a Smart Home System where users can cont
 
 ---
 
-## Project Structure 
-
-SmartHomeSystem/
-├── Program.cs # Main entry point
-├── Core/
-│ ├── ISmartDevice.cs # Base interface for all devices
-│ ├── DeviceBase.cs # Abstract base class with common properties
-│ ├── DeviceFactory.cs # Factory Method to create devices
-│ ├── IDeviceProxy.cs # Proxy interface
-│ └── DoorLockProxy.cs # Proxy implementation for DoorLock
-├── Devices/
-│ ├── Light.cs # Smart Light implementation
-│ ├── Thermostat.cs # Smart Thermostat implementation
-│ ├── DoorLock.cs # Smart DoorLock implementation
-│ ├── AC.cs # Smart AC implementation
-│ ├── DoorSensorCamera.cs # Camera attached to DoorLock
-│ └── HomeCleaner.cs # Smart HomeCleaner implementation
-├── Observer/
-│ ├── IObserver.cs # Observer interface
-│ ├── ISubject.cs # Subject interface
-│ └── SmartHub.cs # Central Hub (Singleton & Subject)
-├── Scheduling/
-│ ├── Scheduler.cs # Handles scheduled tasks
-│ └── Trigger.cs # Handles trigger-based automation
-└── Utils/
-├── Logger.cs # Logging utility
-└── Validator.cs # Input validation helpers
-
----
-
 ## Key Features
 
 1. **Device Control**
